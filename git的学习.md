@@ -28,6 +28,10 @@ git branch
 
 **git push origin features**
 
+5.如何将本地分支追踪到远程？
+
+![image-20200821175622586](git的学习.assets/image-20200821175622586.png)
+
 ****
 
 # git的一般使用
