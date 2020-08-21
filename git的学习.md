@@ -10,11 +10,21 @@ git checkout 分支名
 
 
 
+3.git查看本地分支 
 
+git branch
 
+![image-20200821160521715](git 的学习.assets/image-20200821160521715.png)
 
+4 .本地创建分支后怎么推送到远程？
 
+首先再建立一个分支features,此时远程的分支还是两个还没改变。
 
+![image-20200821160934184](git 的学习.assets/image-20200821160934184.png)
+
+**step2：把本地分支push到远程**
+
+**git push origin features**
 
 ****
 
