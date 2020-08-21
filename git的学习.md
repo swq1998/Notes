@@ -20,6 +20,8 @@ git branch
 
 首先再建立一个分支features,此时远程的分支还是两个还没改变。
 
+![image-20200821162057416](git的学习.assets/image-20200821162057416.png)
+
 
 
 **step2：把本地分支push到远程**
